@@ -1,0 +1,1 @@
+Arquivos da página de vendas Clique & Pronto. Pronto para deploy no Vercel ou Netlify.
